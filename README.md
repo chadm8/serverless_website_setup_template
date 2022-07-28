@@ -1,4 +1,4 @@
-# serverless_website_setup_template
+# Very basic website setup with multiple staging environments (dev, test, and prod) through a CloudFormation template using AWS S3 for the hosting bucket and logs as well as Amazon CloudFront
 
 ### Be sure to add something like this in ~/.aws/credentials
 ```
